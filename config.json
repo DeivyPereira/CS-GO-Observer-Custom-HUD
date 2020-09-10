@@ -1,0 +1,19 @@
+{
+  "GameStateIntegrationPort": 1337,
+  "ServerPort": 2626,
+  "SteamApiKey": "INSERT KEY HERE",
+  "PrintPlayerData": false,
+  "DisplayAvatars": true,
+  "DisplayPlayerAvatars": true,
+  "DisplayTeamFlags": false,
+  "DisplayPlayerFlags": true,
+  "AvatarDirectory": "./public/files/avatars/",
+  "SpecialEvent": "SHOWMATCH",
+  "LeftImage": "/files/league/2532.png",
+  "LeftPrimary": "LIGHTSPEED CUP - SEASON 1",
+  "LeftSecondary": "",
+  "RightImage": "/files/img/elements/icon_microphone.png",
+  "RightPrimary": "@ZinLove",
+  "RightSecondary": "",
+  "GSIToken": "120987"
+}
